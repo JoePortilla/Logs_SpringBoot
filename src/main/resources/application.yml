@@ -1,0 +1,4 @@
+logging:
+  level:
+    co.joeportilla.logger: DEBUG
+
